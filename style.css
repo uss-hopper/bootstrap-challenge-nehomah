@@ -1,14 +1,32 @@
 /**********GLOBAL***********/
 body {
+	background: #F5E3F7;
 	font-family: fantasy, Serif;
 }
 
 /********Navbar********/
 .navbar {
-	background: purple;
-	border-color: purple;
+	background: #EAB3F0;
 }
 
+/*******Intro*********/
+.jumbotron {
+	background: #9D21AB;
+}
 
+/******Main content********/
+.bg-secondary {
+	background: #60096A !important;
+}
+
+/*******Cards**********/
+.card {
+	background: #EAB3F0;
+}
+
+/*****Footer*******/
+.bg-dark {
+	background: #0C010D !important;
+}
 
 
